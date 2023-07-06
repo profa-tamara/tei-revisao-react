@@ -6,8 +6,10 @@
 **Data limite de entrega:** 06/07/2023 até 11:30 🕥
 <hr>
 
-🚨 **ATENÇÃO:** NÃO FAÇA A SUA ATIVIDADE NA BRANCH MAIN. CLONE ESTE REPOSITÓRIO, CRIE A SUA BRANCH E A PARTIR DELA FAÇA O SEU PROJETO.
+🚨 **ATENÇÃO:** NÃO FAÇA A SUA ATIVIDADE NA BRANCH MAIN. CLONE ESTE REPOSITÓRIO, CRIE A SUA BRANCH E A PARTIR DELA FAÇA O SEU PROJETO.<br>
 _Outra opção é realizar o seu projeto off-line e, ao terminar, criar a sua branch na página do GitHub. Ao acessar a sua branch, fazer o upload da pasta do seu projeto. Por fim, deve-se abrir o Pull Request!_
+
+<hr>
 
 O objetivo é criar uma página web com React que exiba uma lista com seus álbuns favoritos. A página deverá ser parecida com a abaixo.
 
