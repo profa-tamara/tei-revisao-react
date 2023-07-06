@@ -1,0 +1,51 @@
+
+body{
+  justify-content: center;
+  background-color: rgba(228, 109, 139, 0.767);
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 5%;
+  padding: 2rem;
+  text-align: center;
+}
+
+.album{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px;
+  border-style: solid;
+  border-color: rgb(108, 108, 134);
+  border-radius: 12px;
+  margin-right: 10px;
+  padding: 8px;
+  background-color: rgb(232, 228, 255);
+  transition: background-color 0.8s;
+}
+
+.album:hover{
+  background-color: rgba(171, 162, 221, 0.830);
+}
+
+.album img{
+  width: 200px;
+}
+
+.album h3{
+  margin: 4px auto 1px;
+}
+
+.album h4{
+  margin-top: 1px auto 6px;
+}
+
+#menu{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.album #play{
+  width: 45px;
+}
