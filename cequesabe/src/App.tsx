@@ -56,7 +56,7 @@ function App() {
           <img src="https://m.media-amazon.com/images/I/81oMqLRXxML._UF1000,1000_QL80_.jpg" alt="" />
           <h2>Divide</h2>
           <p><strong>Ano lançamento:</strong> 2017</p>
-          <p><strong>Gravadora:</strong>Asylum</p>
+          <p><strong>Gravadora:</strong> Asylum</p>
           <p><strong>Duração</strong> 1hr</p>
           <a href="https://www.youtube.com/watch?v=OEFWiqiHxcI" target='_blank'><img id='play' src="https://cdn-icons-png.flaticon.com/512/0/375.png" alt="" /></a>
         </div>
