@@ -10,10 +10,10 @@ function App() {
           <h3>The Album</h3>
           <h4>BLACKPINK</h4>
           <img src="https://upload.wikimedia.org/wikipedia/pt/1/1e/Blackpink_-_The_Album.png" alt=""/>
-          <p><b>Ano de Lançamento:</b> </p>
-          <p><b>Gravadora:</b> </p>
-          <p><b>Duração:</b> </p>
-          <a href="https://www.youtube.com/watch?v=deo0aXNPalE&list=PLoCWJhz_4WqFk-E-A6cBUvI-nWIBpjWWi">
+          <p><b>Ano de Lançamento:</b> 2/10/2020</p>
+          <p><b>Gravadora:</b> YG & Interscope</p>
+          <p><b>Duração:</b> 24:26</p>
+          <a href="https://www.youtube.com/watch?v=rrBO9fy6A3s&list=PLzbGLskt3hhnfTT5pL-qLLVW-wc9B_Aly">
           <img id="play" src="https://www.pngmart.com/files/3/Play-Button-Transparent-Background.png" alt=""/>
           </a>
         </div>
@@ -22,10 +22,10 @@ function App() {
           <h3>CHEACKMATE</h3>
           <h4>ITZY</h4>
           <img src="https://static.wikia.nocookie.net/itzy/images/a/a0/CHECKMATE_revisited_digital_album_cover.webp" alt=""/>
-          <p><b>Ano de Lançamento:</b> </p>
-          <p><b>Gravadora:</b> </p>
-          <p><b>Duração:</b> </p>
-          <a href="https://www.youtube.com/watch?v=deo0aXNPalE&list=PLoCWJhz_4WqFk-E-A6cBUvI-nWIBpjWWi">
+          <p><b>Ano de Lançamento:</b> 15/07/2022</p>
+          <p><b>Gravadora:</b> JYP & Republic</p>
+          <p><b>Duração:</b> 20:43</p>
+          <a href="https://www.youtube.com/watch?v=-uOShlFu1v8&list=PLvwxw_LiHMjg-Me5vU0gZurYkEAh_nmaN">
           <img id="play" src="https://www.pngmart.com/files/3/Play-Button-Transparent-Background.png" alt=""/>
           </a>
         </div>
