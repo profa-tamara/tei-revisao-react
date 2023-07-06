@@ -16,7 +16,7 @@ Para isso, instale a biblioteca **React** (com Vite e TypeScript) e realize o pr
 ## Regras
 
 - As imagens devem ser importadas. Não podem ser inseridas diretamente no JSX.
-- Não é necessário criar componentes diferentes para cada álbum.
+- Não é necessário criar componentes diferentes para cada álbum. Este processo será feito em uma outra atividade
 - Os álbuns deverão ficar lado a lado.
 - O ícone _Play_ deve direcionar o usuário, ao ser clicado, para um link onde o álbum estará disponível (sugestão: YouTube).
 - Ao passar o mouse em cada container, um estilo diferente deve aparecer.
