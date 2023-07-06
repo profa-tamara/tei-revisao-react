@@ -1,6 +1,3 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
@@ -71,6 +68,7 @@ function App() {
           <a href="https://www.youtube.com/playlist?list=PLU0zsCmSUekaPgHz6ZWeSpewQ6n67aTDM" target='_blank'><img id='play' src="https://cdn-icons-png.flaticon.com/512/0/375.png" alt="" /></a>
         </div>
       </div>
+      <h3>Davi Martins / Iasmin de Almeida</h3>
     </>
   )
 }
