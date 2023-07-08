@@ -1,0 +1,82 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.containers {
+  display: grid;
+  grid-auto-flow: row;
+  align-items: center;
+  text-align: center;
+  width: 100vh; /* Largura do contêiner */
+  height: 100vh; /* Altura do contêiner */
+  grid-template-columns: repeat(3, 1fr); /* Dividir em 3 colunas de largura igual */
+  grid-gap: 10px; /* Espaçamento entre os contêineres */
+}
+
+/* Estilo para os contêineres */
+.container {
+  background-color: #624747; /* Cor de fundo */
+  width: 250px;
+  height: 350px;
+  border: 1px solid #ccc; /* Borda */
+  padding: 10px; /* Espaçamento interno */
+  display: flex; /* Exibir os elementos em linha */
+  align-items: center; /* Alinhar verticalmente ao centro */
+  border: 5px solid black;
+  flex-direction: column;
+}
+
+/* Estilo para a imagem dentro do contêiner */
+.container img {
+  width: 100px; /* Largura da imagem */
+  height: 100px; /* Altura da imagem */
+  object-fit: cover; /* Redimensionar a imagem para preencher o espaço */
+  margin-right: 10px; /* Margem à direita da imagem */
+}
+
+/* Estilo para os títulos dentro do contêiner */
+.container h1,
+.container h2,
+.container h3 {
+  margin: 0; /* Remover margem padrão */
+}
+
+/* Estilo para o título h3 dentro do contêiner */
+.container h3 {
+  margin: 0;
+  align-items: center; /* Alinhar verticalmente ao centro */
+}
+
+.container i{
+  margin: 0;
+  margin-top: 10px;
+}
+
+.gg-play-button-o {
+  color: #000000;
+  box-sizing: border-box;
+  position: relative;
+  display: block;
+  transform: scale(var(--ggs,1));
+  width: 22px;
+  height: 22px;
+  border: 2px solid;
+  border-radius: 20px
+}
+.gg-play-button-o::before {
+  content: "";
+  display: block;
+  box-sizing: border-box;
+  position: absolute;
+  width: 0;
+  height: 10px;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 6px solid;
+  top: 4px;
+  left: 7px
+}
