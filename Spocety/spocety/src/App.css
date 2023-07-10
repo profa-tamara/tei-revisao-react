@@ -67,6 +67,15 @@ body {
   color: white;
 }
 
+.albuns:hover {
+  transform: scale(1.1);
+}
+
+.enlarged-album {
+  transform: scale(1.1);
+}
+
+
 .imgs {
   width: 194px;
   height: 197px;
